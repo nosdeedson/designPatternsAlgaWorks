@@ -1,0 +1,12 @@
+<contatos>
+    <contato>
+        <codigo>1</codigo>
+        <nome>jose souza</nome>
+        <telefone>1234-5678</telefone>
+    </contato>
+    <contato>
+        <codigo>2</codigo>
+        <nome>joao silva</nome>
+        <telefone>1111-2222</telefone>
+    </contato>
+</contatos>

@@ -1,0 +1,7 @@
+Cliente{nome='jose silza', cpf='12312312312'} | CartaoCredito{numero='111111111', nome='jose silva', vencimento=2025-09, codigoSeguraca=111} | R$ 50.0
+Cliente{nome='joao silva', cpf='111 111 111 12'} | CartaoCredito{numero='111111111', nome='joao souza', vencimento=2029-04, codigoSeguraca=111} | R$ 100.0
+Cliente{nome='lucineia souza', cpf='null'} | null | R$ 100.0
+Cliente{nome='lucineia souza', cpf='null'} | CartaoCredito{numero='123123123', nome='lu souza', vencimento=2029-10, codigoSeguraca=0} | R$ 100.0
+Cliente{nome='lucineia souza', cpf='null'} | CartaoCredito{numero='123123123', nome='lu souza', vencimento=2029-10, codigoSeguranca=123} | R$ 100.0
+Cliente{nome='lucineia souza', cpf='12112312312'} | CartaoCredito{numero='123123123', nome='lu souza', vencimento=2029-10, codigoSeguranca=123} | R$ 100.0
+Cliente{nome='lucineia souza', cpf='12112312312'} | CartaoCredito{numero='123123123', nome='lu souza', vencimento=2029-10, codigoSeguranca=123} | R$ 100.0
